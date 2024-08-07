@@ -12,7 +12,7 @@
   "description": "",
   "dependencies": {
     "express": "^4.19.2",
-    "express-handlebars": "^8.0.1",
+    "express-handlebars": "^6.0.7",
     "socket.io": "^4.7.5",
     "sweetalert2": "^11.12.4"
   },
